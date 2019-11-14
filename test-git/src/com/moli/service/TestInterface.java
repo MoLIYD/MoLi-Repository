@@ -1,0 +1,6 @@
+package com.moli.service;
+
+public interface TestInterface {
+	void m();
+	void m2();
+}
